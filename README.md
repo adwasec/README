@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Cybersecurity, web development**
 
-- 👨‍💻 All of my projects are available at [Bilalroot.vercel.app](Bilalroot.vercel.app)
+- 👨‍💻 All of my projects are available at
+- <a href="bilalroot.vercel.app">Bilalroot.vercel.app </a>
 
 - 📫 How to reach me **Habeshabilal410@gmail.com**
 
